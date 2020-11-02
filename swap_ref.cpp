@@ -3,7 +3,7 @@
 #include <algorithm>
 using namespace std;
 
-void swap_ref(int &arg1, int &arg2){
+void swap_ref(int &arg1, int &arg2){        //zad2
     int tmp;
     tmp = arg1;
     arg1 = arg2;
