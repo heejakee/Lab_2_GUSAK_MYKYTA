@@ -3,7 +3,7 @@
 #include <algorithm>
 using namespace std;
 
-void swap_low(int *arg1, int *arg2){
+void swap_low(int *arg1, int *arg2){        //zad1
     int tmp;
     if(*arg2<*arg1){
         tmp = *arg1;
