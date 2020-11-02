@@ -1,6 +1,7 @@
 #include <iostream>
 #include <algorithm>
 using namespace std;
+//zad5
 
 int main(){
     int x, y;
